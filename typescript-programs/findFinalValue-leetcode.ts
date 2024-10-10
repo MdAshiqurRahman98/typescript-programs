@@ -9,5 +9,5 @@ function findFinalValue(nums: number[], original: number): number {
 }
 
 const nums1 = [5, 3, 6, 1, 12];
-const original = 3;
-console.log(findFinalValue(nums1, original));
+const original1 = 3;
+console.log(findFinalValue(nums1, original1));
